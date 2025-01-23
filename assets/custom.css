@@ -1,0 +1,23 @@
+.B-Genere {
+    width: 80px;
+    height: 30px;
+    font-size: small;
+    text-align: center;
+}
+
+.CdHover :hover {
+    scale: 1.1;
+    z-index: 999;
+    border: solid 2px white;
+    border-radius: 10px !important;
+    
+
+}
+.footerN {
+    list-style: none;
+    font-size: 10px;
+    
+}
+.textColor {
+    color: #646464 !important;
+}
